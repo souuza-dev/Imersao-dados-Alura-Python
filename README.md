@@ -1,5 +1,6 @@
 📊 Imersão Dados com Python — Alura
 Este repositório reúne os projetos desenvolvidos durante a Imersão Dados com Python da Alura 🎓.
+
 O objetivo é criar um dashboard interativo para análise de dados salariais na área de tecnologia, utilizando Pandas, Plotly e Streamlit.
 
 🚀 Destaques do Projeto
@@ -7,8 +8,7 @@ O objetivo é criar um dashboard interativo para análise de dados salariais na 
 ✔️ Gráficos interativos e responsivos 🎨
 ✔️ Dashboard online pronto para uso 🌐
 
-🔗 Acesse o Dashboard: https://github.com/souuza-dev/Imersao-dados-Alura-Python
-
+🔗 Acesse o Dashboard: [Dashboard](https://curso-imersao-dados-alura-python-2025.streamlit.app/)
 📚 Estrutura das Aulas
 📌 Aula 1 — Introdução & Configuração do Ambiente
 🐍 Introdução ao Python e bibliotecas essenciais
